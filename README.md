@@ -19,8 +19,6 @@ https://sparks.gogo.co.nz/ch340.html
 
 3. Follow the instructions and tutorials presented.
 
-See also, more generally https://www.arduino.cc/en/Tutorial/HomePage
-
-And on the Dawson Hackathon SLACK workspace.
+See also, more generally https://www.arduino.cc/en/Tutorial/HomePage and the Dawson Hackathon SLACK workspace.
 
 
